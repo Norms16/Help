@@ -4,7 +4,7 @@ using System;
 namespace Help.Domain
 {
     /// <summary>
-    /// This class represents an Individual acoount 
+    /// Reprsents organzation Profile 
     /// </summary>
     public partial class Profile
     {

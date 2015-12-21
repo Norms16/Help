@@ -4,7 +4,7 @@
 namespace Help.Domain
 {
     /// <summary>
-    /// Donation beneficiary
+    /// Donation beneficiary: this can be an Individual or NGO Body 
     /// </summary>
     public partial class Beneficiary
     {

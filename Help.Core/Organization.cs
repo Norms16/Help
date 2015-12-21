@@ -2,6 +2,9 @@
 
 namespace Help.Domain
 {
+    /// <summary>
+    /// NGO
+    /// </summary>
    public partial class Organization
     {
         public int Id { get; set; }
